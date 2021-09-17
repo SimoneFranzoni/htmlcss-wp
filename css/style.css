@@ -48,30 +48,23 @@ header{
 }
 
 .section-left{
-    background-color: blue;
-    min-height: 560px;
     width: 20%;
     float: left;
 }
 
 .section-centre{
-    background-color: blue;
-    min-height: 560px;
     margin: 0% 2%; 
     float: left;
     width: 56%;
 }
 
 .section-right{
-    background-color: blue;
-    min-height: 560px;
     width: 20%;
     float: left;
 }
 
 footer{
-    background-color: #8502fa;
-    margin-top: 10px;
+    margin-top: 40px;
     height: 70px;
     margin-bottom: 30px;
 }
